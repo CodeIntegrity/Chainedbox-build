@@ -214,9 +214,9 @@ jobs:
 
       run: |
 
-        sudo chmod +x kernel.sh
+        #sudo chmod +x kernel.sh
 
-        sudo ./kernel.sh
+        #sudo ./kernel.sh
 
         # 编辑镜像
 
