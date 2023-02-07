@@ -294,7 +294,7 @@ jobs:
 
       with:
 
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.ACC_TOKEN }}
 
         repository: ${{ github.repository }}
 
